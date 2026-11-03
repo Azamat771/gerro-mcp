@@ -1,0 +1,45 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "ru.gerro/gerro",
+  "title": "Gerro: госзакупки для ИИ / Russian public procurement",
+  "description": "Госзакупки РФ для вашей ИИ: 44-ФЗ, 223-ФЗ, ПП 615. Russian public procurement for AI.",
+  "version": "1.0.0",
+  "websiteUrl": "https://gerro.ru",
+  "icons": [
+    {
+      "src": "https://gerro.ru/brand/icon-512.png",
+      "mimeType": "image/png",
+      "sizes": [
+        "512x512"
+      ]
+    },
+    {
+      "src": "https://gerro.ru/brand/icon-192.png",
+      "mimeType": "image/png",
+      "sizes": [
+        "192x192"
+      ]
+    },
+    {
+      "src": "https://gerro.ru/brand/icon-48.png",
+      "mimeType": "image/png",
+      "sizes": [
+        "48x48"
+      ]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://gerro.ru/mcp",
+      "headers": [
+        {
+          "name": "Authorization",
+          "description": "Необязательно: ключ доступа из кабинета Gerro в виде «Bearer <ключ>». Без него клиент входит через браузер (OAuth). Optional: access key from the Gerro cabinet as \"Bearer <key>\"; without it the client signs in through the browser (OAuth).",
+          "isRequired": false,
+          "isSecret": true
+        }
+      ]
+    }
+  ]
+}
