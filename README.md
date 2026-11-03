@@ -1,5 +1,9 @@
 # Gerro — госзакупки в вашем ИИ-чате
 
+> 🇷🇺 **Только российские госзакупки.** Gerro работает с тендерами России из ЕИС (zakupki.gov.ru) — для поставщиков и подрядчиков, которые участвуют в закупках по 44-ФЗ, 223-ФЗ и ПП 615. Закупки других стран не поддерживаются.
+>
+> 🇷🇺 **Russia only.** Gerro covers Russian public tenders from the Russian EIS system only. Tenders of other countries are not supported.
+
 **Gerro** — удалённый MCP-сервер. Он подключается к вашему ИИ (Яндекс AI Studio, GigaCowork, ChatGPT, Codex, Cursor, Qwen и другим) и работает с открытыми данными ЕИС (zakupki.gov.ru) по закупкам **44-ФЗ**, **223-ФЗ** и **ПП 615** (капремонт).
 
 Вы заводите на [gerro.ru](https://gerro.ru) профиль компании (коды ОКПД2, регионы, при желании ключевые слова), подключаете Gerro к своему ИИ и спрашиваете обычными словами. ИИ ищет в рамках профиля и отвечает со ссылками на ЕИС.
@@ -106,6 +110,8 @@
 ---
 
 # Gerro — Russian public procurement in your AI chat
+
+**Russia only:** for suppliers bidding on Russian government tenders.
 
 **Gerro** is a remote [MCP](https://modelcontextprotocol.io) server for Russian public procurement data from the official EIS system (zakupki.gov.ru): laws 44-FZ, 223-FZ and Government Decree No. 615. Set up a company profile on [gerro.ru](https://gerro.ru), connect Gerro to your AI assistant and ask in plain language: find tenders for your profile, money needed to take part, who wins with a customer and by how much prices drop, read the draft contract and technical specification with clause numbers, find inconsistencies in tender documents, prepare a bid checklist, export everything found to Excel. 12 tools, 22 ready-made commands.
 
