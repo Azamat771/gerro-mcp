@@ -2,9 +2,13 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "ru.gerro/gerro",
   "title": "Gerro: госзакупки для ИИ / Russian public procurement",
-  "description": "Госзакупки РФ для вашей ИИ: 44-ФЗ, 223-ФЗ, ПП 615. Russian public procurement for AI.",
-  "version": "1.0.0",
+  "description": "Госзакупки РФ в ИИ-чате: поиск, обеспечения, документы. Russian public procurement for AI chats.",
+  "version": "1.0.1",
   "websiteUrl": "https://gerro.ru",
+  "repository": {
+    "url": "https://github.com/Azamat771/gerro-mcp",
+    "source": "github"
+  },
   "icons": [
     {
       "src": "https://gerro.ru/brand/icon-512.png",
