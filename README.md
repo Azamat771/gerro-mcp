@@ -18,7 +18,7 @@
 | Инструкции подключения | https://gerro.ru/connect |
 | Поддержка | support@gerro.ru |
 | Условия | https://gerro.ru/legal/offer · Политика конфиденциальности: https://gerro.ru/legal/privacy |
-| Тариф | 990 ₽ за 30 дней, пробный период 3 дня за 1 ₽. Продажи открыты с 8 ноября 2026 |
+| Тариф | 1 900 ₽ за 30 дней, пробный период 3 дня за 1 ₽. Продажи открыты с 8 ноября 2026 |
 | Язык | русский |
 
 ## Что умеет
@@ -131,4 +131,4 @@
 
 **Gerro** is a remote [MCP](https://modelcontextprotocol.io) server for Russian public procurement data from the official EIS system (zakupki.gov.ru): laws 44-FZ, 223-FZ and Government Decree No. 615. Set up a company profile on [gerro.ru](https://gerro.ru), connect Gerro to your AI assistant and ask in plain language: find tenders for your profile, money needed to take part, who wins with a customer and by how much prices drop, read the draft contract and technical specification with clause numbers (scanned documents are recognised), find inconsistencies in tender documents, prepare a bid checklist, keep a portfolio of tenders that Gerro re-checks daily, see your company passport and control your own contracts, export everything to Excel. 17 tools, 25 ready-made commands.
 
-Server URL `https://gerro.ru/mcp` (Streamable HTTP), sign-in via OAuth 2.1 (gerro.ru account) or an access key. Documentation only, no source code. Service language: Russian. 990 RUB per 30 days, 3-day trial for 1 RUB. Support: support@gerro.ru.
+Server URL `https://gerro.ru/mcp` (Streamable HTTP), sign-in via OAuth 2.1 (gerro.ru account) or an access key. Documentation only, no source code. Service language: Russian. 1900 RUB per 30 days, 3-day trial for 1 RUB. Support: support@gerro.ru.
