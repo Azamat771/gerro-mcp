@@ -1,5 +1,7 @@
 # Gerro — госзакупки в вашем ИИ-чате
 
+[![Listed on mcpservers.org](https://mcpservers.org/badge.svg)](https://mcpservers.org/servers/azamat771/gerro-mcp)
+
 > 🇷🇺 **Только российские госзакупки.** Gerro работает с тендерами России из ЕИС (zakupki.gov.ru) — для поставщиков и подрядчиков, которые участвуют в закупках по 44-ФЗ, 223-ФЗ и ПП 615. Закупки других стран не поддерживаются.
 >
 > 🇷🇺 **Russia only.** Gerro covers Russian public tenders from the Russian EIS system only. Tenders of other countries are not supported.
